@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I’m **Apoorva**, a **4th-year Computer Engineering student at the University of Guelph** with a strong interest in **cybersecurity** and **engineering design**. I like building practical things, learning how systems behave in the real world, and using tech to support communities and meaningful work.
 
