@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I’m **Apoorva Thirumurugan**, a **4th-year Computer Engineering student at the University of Guelph** with a strong interest in **cybersecurity**, **ML** and **engineering design**. I like building practical tools, learning how systems behave, and using tech to support communities and meaningful work.
+I’m **Apoorva Thirumurugan**, a **4th-year Computer Engineering student** with a strong interest in **security**, **AI/ML** and **engineering design**. I like building practical tools, learning how systems behave, and using tech to support communities and meaningful work.
 
 ## What I’m focused on
 I’m currently growing my skills in **security operations**, **ML/AI model training**, and **building tools that make workflows smoother and safer**. View my personal portfolio here: https://apoorva-thirumurugan.github.io/
